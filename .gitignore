@@ -1,0 +1,8 @@
+# make.fun kit (downloaded tooling — never committed)
+u-mgwals-ship-it-friday-30bd407a-kit/
+kit.tar.gz
+# local run output
+/output/
+# transcript bundles and submission artefacts (never committed)
+*.tar.gz
+transcripts.tar.gz
